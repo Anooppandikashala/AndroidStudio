@@ -115,9 +115,16 @@ $ ./genymotion-3.0.4-linux_x64.bin
  
 1. Goto [Link](https://www.genymotion.com/fun-zone/)  and  download ```installer for Windows (With Virtualbox )```
 ![With Virtualbox](https://github.com/Anooppandikashala/AndroidStudio/blob/master/image004.jpg)
-2. To download the installer, you have to create a free account.
+2. To download the installer, you have to create a free account on Genymotion.
 3. After downloading, run the installer.
 4. Follow the installer.
 5. For more info Goto [Link](https://acadgild.com/blog/install-genymotion-windows)
 6. Please note download the ```installer with Virtualbox```
+
+### OR
+7. Download the exe file from [Link](https://drive.google.com/open?id=17XZY3wBfin_wJ6RMRj8V3h58PqWp-LRK)
+8. From the folder find out ```genymotion-3.0.4-vbox.exe``` and download it.
+9. Run the installer and Follow the installer.
+
+## ******* You Successfully installed all the components *******
 
