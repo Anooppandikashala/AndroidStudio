@@ -1,4 +1,4 @@
-# Android Studio Installations:
+# Android Studio Installations(Ubuntu and Windows):
 
 ## 1. Ubuntu:
 
@@ -67,11 +67,11 @@ Please follow the link https://vitux.com/how-to-install-android-studio-ide-on-ub
 ### 1.3 Genymotion installation (```Light weight Android Emulator- Only for personal usage```)
 
 1. Goto https://www.genymotion.com/fun-zone/
-2. Or Dowload it from https://drive.google.com/open?id=17XZY3wBfin_wJ6RMRj8V3h58PqWp-LRK (```genymotion-3.0.4-linux_x64.bin```)
+2. Or Download it from https://drive.google.com/open?id=17XZY3wBfin_wJ6RMRj8V3h58PqWp-LRK (```genymotion-3.0.4-linux_x64.bin```)
 3. Download Virtual box from 
     https://drive.google.com/open?id=17XZY3wBfin_wJ6RMRj8V3h58PqWp-LRK (```virtualbox-6.1_6.1.0-135406_Ubuntu_bionic_amd64.deb```)
 
-    1. Donload the file and Right click the ```virtualbox-6.1_6.1.0-135406_Ubuntu_bionic_amd64.deb``` and open with software center.
+    1. Download the file and Right click the ```virtualbox-6.1_6.1.0-135406_Ubuntu_bionic_amd64.deb``` and open with software center.
     2. install the virtual box.
 4. After installing Virtual box we can start installing Genymotion
 5. Goto downloaded folder of ```genymotion-3.0.4-linux_x64.bin``` and  right cick and open in terminal from the folder.
