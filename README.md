@@ -1,6 +1,6 @@
-# Android Studio Installation:
+# Android Studio Installations:
 
-## Ubuntu:
+## 1. Ubuntu:
 
 1. Install java (Oracle java):
     Goto https://drive.google.com/open?id=17XZY3wBfin_wJ6RMRj8V3h58PqWp-LRK
@@ -9,7 +9,7 @@
 3. Download  ```install-java-master.zip``` file and extract it.
 
 
-### Java Installation
+### 1.1 Java Installation
 
 Extract ```install-java-master.zip```
 
@@ -43,7 +43,7 @@ Do you want to set JAVA_HOME environment variable in /home/isuru/.bashrc? [y/N]
 
 You can automate the Java installation script by using the `yes` command.
 
-## Android Studio Installation
+### 1.2 Android Studio Installation
 
 1. Goto : https://developer.android.com/studio?gclid=EAIaIQobChMIrOebs9CF5wIVzQorCh1uhAL6EAAYASAAEgLm2_D_BwE
 
@@ -59,12 +59,12 @@ $ ./studio.sh
 
 7. follow the installer.
 
-## Or Install from the software center :
+### Or Install from the software center :
 
 Please follow the link https://vitux.com/how-to-install-android-studio-ide-on-ubuntu/
 
 
-## Genymotion installation (Light weight Android Emulator- Only for personal usage)
+### 1.3 Genymotion installation (```Light weight Android Emulator- Only for personal usage```)
 
 1. Goto https://www.genymotion.com/fun-zone/
 2. Or Dowload it from https://drive.google.com/open?id=17XZY3wBfin_wJ6RMRj8V3h58PqWp-LRK (```genymotion-3.0.4-linux_x64.bin```)
@@ -86,4 +86,32 @@ $ ./genymotion-3.0.4-linux_x64.bin
 
 7. Follow the installer.
 
-## Now you Successfully installed Java, Android Studio and Genymotion.
+## Now you Successfully installed Java, Android Studio and Genymotion In Ubuntu.
+
+
+## 2. Windows:
+
+### 2.1 Java Installation:
+
+1. Goto https://drive.google.com/open?id=17XZY3wBfin_wJ6RMRj8V3h58PqWp-LRK and download ```jdk-8u241-windows-x64.exe```
+2. Double click and run the installer and follow the installer.
+
+3. For more info goto https://www.shaileshjha.com/step-by-step-how-to-download-and-install-java-se-jdk-8-on-windows-10/
+
+### 2.2 Android Studio Installation:
+
+1. Goto https://developer.android.com/studio/ and download the installer for Windows (Recommended installer)
+
+2. After downloading the installer run the .exe file and follow the installer.
+ ```For detailed info Goto : ``` https://www.onlinetutorialspoint.com/android/how-to-install-android-studio-on-windows-10.html
+
+### 2.3 Genymotion installation (```Light weight Android Emulator- Only for personal usage```)
+ 
+1. Goto https://www.genymotion.com/fun-zone/  and  download ```installer for Windows (With Virtualbox )```
+![With Virtualbox](https://github.com/Anooppandikashala/AndroidStudio/blob/master/image004.jpg)
+2. To download the installer, you have to create a free account.
+3. After downloading, run the installer.
+4. Follow the installer.
+5. For more info Goto https://acadgild.com/blog/install-genymotion-windows
+6. Please note download the ```installer with Virtualbox```
+
