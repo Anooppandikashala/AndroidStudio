@@ -99,7 +99,7 @@ $ ./genymotion-3.0.4-linux_x64.bin
 
 ### 2.1 Java Installation:
 
-1. Goto [Link](https://drive.google.com/open?id=17XZY3wBfin_wJ6RMRj8V3h58PqWp-LRK and download) ```jdk-8u241-windows-x64.exe```
+1. Goto [Link](https://drive.google.com/open?id=17XZY3wBfin_wJ6RMRj8V3h58PqWp-LRK) and download ```jdk-8u241-windows-x64.exe```
 2. Double click and run the installer and follow the installer.
 
 3. For more info goto [Link](https://www.shaileshjha.com/step-by-step-how-to-download-and-install-java-se-jdk-8-on-windows-10/)
