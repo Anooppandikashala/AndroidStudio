@@ -3,9 +3,8 @@
 Before going to install the android studio and all others please check the following..
 
 1. In BIOS Secure booting is ```off``` or ```disable```
-2. Enable hardware acceleration
+2. Enable hardware acceleration. For more info Goto [Link](https://2nwiki.2n.cz/pages/viewpage.action?pageId=75202968)
 3. In Ubuntu Check the kvm status For more info Goto [Link](https://www.alibabacloud.com/blog/how-to-install-and-configure-kvm-on-ubuntu-18-04_595501)
-4. For more info Goto [Link](https://2nwiki.2n.cz/pages/viewpage.action?pageId=75202968)
 
 ## 1. Ubuntu:
 
