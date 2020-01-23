@@ -69,6 +69,32 @@ $ ./studio.sh
 Please follow the link [Link](https://vitux.com/how-to-install-android-studio-ide-on-ubuntu/)
 
 
+### 2.3 Testing and setting-up Android Studio
+
+1. Open Android Studio
+
+2. Create A Desktop entry
+
+![Opening window](https://github.com/Anooppandikashala/AndroidStudio/blob/master/desktop_entry.png)
+
+2. Setting up Android SDK
+
+![Android SDK](https://github.com/Anooppandikashala/AndroidStudio/blob/master/sdk_manager_0.png)
+
+From this select SDK Tools and install ticked(checked) packages and hit apply
+![Android SDK](https://github.com/Anooppandikashala/AndroidStudio/blob/master/sdk_manager_1.png)
+
+3. Setting up JDK-8 Replace default jvm
+
+![Android SDK](https://github.com/Anooppandikashala/AndroidStudio/blob/master/project_structure.png)
+![Android SDK](https://github.com/Anooppandikashala/AndroidStudio/blob/master/default-jvm.png)
+change the default to installed java-8 (Example-in ubuntu)```Please note Windows path may change```
+it is the path to the java installed folder.
+![Android SDK](https://github.com/Anooppandikashala/AndroidStudio/blob/master/installed_java_8.png)
+
+
+
+
 ### 1.3 Genymotion installation (```Light weight Android Emulator- Only for personal usage```)
 
 1. Goto [Link](https://www.genymotion.com/fun-zone/)
@@ -109,6 +135,8 @@ $ ./genymotion-3.0.4-linux_x64.bin
 
 2. After downloading the installer run the .exe file and follow the installer.
  ```For detailed info Goto : ``` [Link](https://www.onlinetutorialspoint.com/android/how-to-install-android-studio-on-windows-10.html)
+ 
+
 
 ### 2.3 Genymotion installation (```Light weight Android Emulator- Only for personal usage```)
  
@@ -126,4 +154,6 @@ $ ./genymotion-3.0.4-linux_x64.bin
 9. Run the installer and Follow the installer.
 
 ## ******* You Successfully installed all the components *******
+
+
 
