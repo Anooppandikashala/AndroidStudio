@@ -90,7 +90,10 @@ From this select SDK Tools and install ticked(checked) packages and hit apply
 ![Android SDK](https://github.com/Anooppandikashala/AndroidStudio/blob/master/default-jvm.png)
 change the default to installed java-8 (Example-in ubuntu)```Please note Windows path may change```
 it is the path to the java installed folder.
+### in Ubuntu
 ![Android SDK](https://github.com/Anooppandikashala/AndroidStudio/blob/master/installed_java_8.png)
+### in windows
+![Android SDK](https://github.com/Anooppandikashala/AndroidStudio/blob/master/jEm7C.png)
 
 
 
