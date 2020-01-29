@@ -183,5 +183,5 @@ sudo apt install dkms
 
 ### Install virtualbox; change version number as needed
 ```console
-sudo apt install virtualbox-5.0
+sudo apt install virtualbox
 ```
