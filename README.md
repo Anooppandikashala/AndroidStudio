@@ -159,4 +159,32 @@ $ ./genymotion-3.0.4-linux_x64.bin
 ## ******* You Successfully installed all the components *******
 
 
+## virtual box installation on Ubuntu 16.04
+
+### next, add the repository to your sources
+```console
+sudo add-apt-repository "deb http://download.virtualbox.org/virtualbox/debian $(lsb_release -cs) contrib"
+```
+### add public keys to verify downloads
+```console
+wget -q https://www.virtualbox.org/download/oracle_vbox_2016.asc -O- | sudo apt-key add -
+```
+```console
+wget -q https://www.virtualbox.org/download/oracle_vbox.asc -O- | sudo apt-key add -
+```
+### now update to complete the process of adding the repository
+```console
+sudo apt update
+```
+### install dkms if you haven't already
+```console
+sudo apt install dkms
+```
+
+### install virtualbox; change version number as needed
+```console
+sudo apt install virtualbox-5.0
+```
+
+
 
